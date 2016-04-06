@@ -5,3 +5,5 @@ function aa();
 cccccc
 添加新功能
 add content
+
+add new function1
